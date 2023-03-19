@@ -1,3 +1,3 @@
-DessertClicker App
+DessertClicker Application
 
 ![](ActivityLifecycleandState.gif)
